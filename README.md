@@ -15,4 +15,4 @@ Final Model: Random Forest
 
 Link Repositori: https://github.com/blitzaaard/final-project-kelompok-5-Aditya-Bariq-Ikhsan
 
-Link PPT: https://docs.google.com/presentation/d/1b855cwRu0OfK1GsXnfpvpNopazUakvDx/edit?usp=sharing&ouid=107797759957960998399&rtpof=true&sd=true
+Link PPT: https://docs.google.com/presentation/d/161PFLqbUP4pa03QnBaycpZA-Wk2cvBwH/edit?usp=sharing&ouid=107797759957960998399&rtpof=true&sd=true
